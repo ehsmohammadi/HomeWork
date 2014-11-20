@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork.Persistence.NH", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork.Persistance.Migrations", "HomeWork.Persistance.Migrations\HomeWork.Persistance.Migrations.csproj", "{AED2E9ED-BC08-4C01-9632-D35D4200E4F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork.Persistence.NH.Test", "HomeWork.Persistence.NH.Test\HomeWork.Persistence.NH.Test.csproj", "{B7B37A5C-BBB6-470C-ACC2-FC4886850687}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{AED2E9ED-BC08-4C01-9632-D35D4200E4F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AED2E9ED-BC08-4C01-9632-D35D4200E4F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AED2E9ED-BC08-4C01-9632-D35D4200E4F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7B37A5C-BBB6-470C-ACC2-FC4886850687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7B37A5C-BBB6-470C-ACC2-FC4886850687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7B37A5C-BBB6-470C-ACC2-FC4886850687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7B37A5C-BBB6-470C-ACC2-FC4886850687}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -48,5 +54,6 @@ Global
 		{26D28A9A-A64A-4B53-BBE0-855E0C93395F} = {2A91F504-1657-4147-9D4D-841D9CDC046F}
 		{BB854D9E-8669-4388-94B3-9D1D0CB00A7B} = {26D28A9A-A64A-4B53-BBE0-855E0C93395F}
 		{AED2E9ED-BC08-4C01-9632-D35D4200E4F8} = {26D28A9A-A64A-4B53-BBE0-855E0C93395F}
+		{B7B37A5C-BBB6-470C-ACC2-FC4886850687} = {26D28A9A-A64A-4B53-BBE0-855E0C93395F}
 	EndGlobalSection
 EndGlobal
